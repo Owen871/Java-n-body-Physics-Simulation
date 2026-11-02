@@ -1,0 +1,8 @@
+2 
+5.0e10 
+25000
+
+0.0e00  4.5e10  1.0e04 0.0e00 1.5e30  sun-1 255 204 0
+0.0e00 -4.5e10 -1.0e04 0.0e00 1.5e30  sun-2 255 204 0
+
+File format modified, Nadeem Abdul Hamid, 2025.

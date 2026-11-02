@@ -1,0 +1,23 @@
+10
+2.50e11
+25000.0
+
+0.0e00 0.000e00 0.00e00 0.00e00 2e32 sun 255 165 0
+6.25e10 0.000e00 0.00e00 5.66e05 6e24 mercury 105 105 105
+-6.25e10 0.000e00 0.00e00 -5.66e05 6e24 earth 0 0 255
+0 6.250e10 -5.66e05 0.00e00 6e24 mars 255 69 0
+0 -6.250e10 5.66e05 0.00e00 6e24 venus 255 215 0
+2.828e11 2.828e11 100000 -100000 1e26 jupiter 218 165 32
+2.828e11 -2.828e11 -100000 -100000 1e26 saturn 210 180 140
+-2.828e11 -2.828e11 -100000 100000 1e26 uranus 70 130 180
+-2.828e11 2.828e11 100000 100000 1e26 neptune 0 0 139
+-1.828e11 1.828e11 100000 100000 1e16 pluto 112 128 144
+
+<overview>
+Creator of this universe: Mary Fan 255 255 255
+
+The inner planets party, with those giant gas outer planets
+joining in the fun every so often. Pluto, who is not a real planet,
+awkwardly does his own little thing. 255 255 255
+
+File format modified, Nadeem Abdul Hamid, 2025.

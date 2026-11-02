@@ -1,0 +1,40 @@
+17
+2.50e11
+25000.0
+
+2.20e11 0.000e00 0.000e00 2.000e04 5.974e24 earth 0 0 255
+0.000e00 2.20e11 -2.000e004 0.000e00 6.419e23 mars 255 69 0
+-2.20e11 0.000e00 0.000e00 -2.000e04 3.302e23 mercury 105 105 105
+0.000e00 0.000e00 0.000e00 0.000e00 1.989e30 sun 255 165 0
+0.000e00 -2.20e11 2.000e04 0.000e00 4.869e24 venus 255 215 0
+
+2.20e11 2.20e11 0.000e00 2.000e04 5.974e24 earth-2 0 0 255
+-2.20e11 2.20e11 -2.000e004 0.000e00 6.419e23 mars-2 255 69 0
+-2.20e11 -2.20e11 0.000e00 -2.000e04 3.302e23 mercury-2 105 105 105
+2.20e11 -2.20e11 2.000e04 0.000e00 4.869e24 venus-2 255 215 0
+
+1.10e11 1.10e11 0.000e00 2.000e04 5.974e24 earth-3 0 0 255
+-1.10e11 1.10e11 -2.000e004 0.000e00 6.419e23 mars-3 255 69 0
+-1.10e11 -1.10e11 0.000e00 -2.000e04 3.302e23 mercury-3 105 105 105
+1.10e11 -1.10e11 2.000e04 0.000e00 4.869e24 venus-3 255 215 0
+
+1.10e11 0.000e00 0.000e00 2.000e04 5.974e24 earth-4 0 0 255
+0.000e00 1.10e11 -2.000e004 0.000e00 6.419e23 mars-4 255 69 0
+-1.10e11 0.000e00 0.000e00 -2.000e04 3.302e23 mercury-4 105 105 105
+0.000e00 -1.10e11 2.000e04 0.000e00 4.869e24 venus-4 255 215 0
+
+<overview>
+Creator of universe: Zachary Kreider, COS 126, Fall 2008
+
+
+Starts with the four sets of the four planets from
+planets.txt (earth, mars, mercury, and venus) arranged in squares
+around the sun.  The squares rotate around the sun while the distance
+from each point on the square to the sun oscillates.  Over time, due
+to the different masses of each planet in each square, the squares
+deteriorate into a chaotic group of particles tracing elliptical
+revolutions about the sun at different distances and periods. I
+called my universe "Entropy Universe" because of this gradual breakdown
+into chaos.
+
+File format modified, Nadeem Abdul Hamid, 2025.

@@ -1,0 +1,13 @@
+4
+5.000e10
+25000.0
+
+-3.500e10 0.000e09 0.000e00 1.400e03 3.000e28 mercury 105 105 105
+-1.000e10 0.000e09 0.000e00 1.400e04 3.000e28 venus 255 215 0
+1.000e10 0.000e09 0.000e00 -1.400e04 3.000e28 earth 0 0 255
+3.500e10 0.000e09 0.000e00 -1.400e03 3.000e28 mars 255 69 0
+
+<overview>
+Creator of universe: David Costanzo, COS 126, Fall 2003
+
+File format modified, Nadeem Abdul Hamid, 2025.

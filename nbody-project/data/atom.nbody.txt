@@ -1,0 +1,25 @@
+9
+2.50e11
+25000
+
+ 1.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24  electron-1 100 100 255
+-1.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24  electron-2 100 100 255
+ 0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  1.9890e+30  nucleus 255 255 255
+-1.0820e+11  0.0000e+00  0.0000e+00  3.5000e+04  4.8690e+24  electron-3 100 100 255
+ 1.0820e+11  0.0000e+00  0.0000e+00  3.5000e+04  4.8690e+24  electron-4 100 100 255
+ 2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23  electron-5 100 100 255
+-2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23  electron-6 100 100 255
+ 0.0000e+00  2.2790e+11  2.4100e+04  0.0000e+00  6.4190e+23  electron-7 100 100 255
+ 0.0000e+00 -2.2790e+11 -2.4100e+04  0.0000e+00  6.4190e+23  electron-8 100 100 255
+
+<overview>
+Creator of universe: Christina Chang, COS 126, Fall 2008
+
+I created the Princetonium universe (by combining the Plutonium symbol 
+(I thought it appropriate given the astronomical context) with the atomic 
+structure of Oxygen). Princetonium has 8 protons(+), 8 neutrons(n), and 
+8 electrons(-). While the atomic universe depicted in my animation is only 
+a rough visual of the atom, I drew the parallel between electron orbitals 
+and planetary orbits. 
+
+File format modified, Nadeem Abdul Hamid, 2025.

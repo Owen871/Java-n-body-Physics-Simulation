@@ -1,0 +1,21 @@
+11
+2.5E11
+1E3
+0.0 0.0 0.0 5e5 -5.0E30 ball-1 255 0 0
+0.0 2.1E11 0.0 0.0 5e21 pin-1 102 204 255
+1E10 2.2E11 0.0 0.0 5e21 pin-2 102 204 255
+-1E10 2.2E11 0.0 0.0 5e21 pin-3 102 204 255
+2E10 2.3E11 0.0 0.0 5e21 pin-4 102 204 255
+-2E10 2.3E11 0.0 0.0 5E21 pin-5 102 204 255
+0.0 2.3E11 0.0 0.0 5E21 pin-6 102 204 255
+-3E10 2.4E11 0.0 0.0 5E21 pin-7 102 204 255
+3E10 2.4E11 0.0 0.0 5e21 pin-8 102 204 255
+-1E10 2.4E11 0.0 0.0 5E21 pin-9 102 204 255
+1E10 2.4E11 0.0 0.0 5E21 pin-10 102 204 255
+
+<overview>
+Simulates a bowling ball hitting a rack of pins, using negative
+mass for the bowling ball to make the pins fly away.
+
+By: Henry Lu '16 (Spring 2013)
+File format modified, Nadeem Abdul Hamid, 2025.

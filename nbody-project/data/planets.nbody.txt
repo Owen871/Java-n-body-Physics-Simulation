@@ -1,0 +1,16 @@
+5
+2.50e+11
+25000.0
+
+1.4960e+11 0.0000e+00 0.0000e+00 2.9800e+04 5.9740e+24 earth 0 0 255
+2.2790e+11 0.0000e+00 0.0000e+00 2.4100e+04 6.4190e+23 mars 255 69 0
+5.7900e+10 0.0000e+00 0.0000e+00 4.7900e+04 3.3020e+23 mercury 105 105 105
+0.0000e+00 0.0000e+00 0.0000e+00 0.0000e+00 1.9890e+30 sun 255 165 0
+1.0820e+11 0.0000e+00 0.0000e+00 3.5000e+04 4.8690e+24 venus 255 215 0
+[!] Your program should not read this line, as all 5 planets were already listed
+and there is no further information to be specified. So you can put comments here.
+<overview>
+
+This file contains the inner 4 planets of our solar system, and the sun.
+
+File format modified, Nadeem Abdul Hamid, 2025.
